@@ -1,0 +1,22 @@
+{
+  "name": "uppgift-filmsidor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghudsanyosief/uppgift-filmsidor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghudsanyosief/uppgift-filmsidor/issues"
+  },
+  "homepage": "https://github.com/Ghudsanyosief/uppgift-filmsidor#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
