@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Ghudsanyosief/uppgift-filmsidor#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "handlebars": "^4.7.8"
   }
 }
